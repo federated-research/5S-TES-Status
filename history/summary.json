@@ -1,42 +1,42 @@
 [
   {
     "name": "New Submission UI",
-    "url": "http://fivesafes-tes-submission.uksouth.cloudapp.azure.com:7220/",
+    "url": "http://fivesafes-tes-submission.uksouth.cloudapp.azure.com:7220",
     "icon": "https://icons.duckduckgo.com/ip3/fivesafes-tes-submission.uksouth.cloudapp.azure.com.ico",
     "slug": "new-submission-ui",
     "status": "down",
-    "uptime": "42.12%",
-    "uptimeDay": "42.12%",
-    "uptimeWeek": "42.12%",
-    "uptimeMonth": "42.12%",
-    "uptimeYear": "42.12%",
+    "uptime": "9.31%",
+    "uptimeDay": "9.31%",
+    "uptimeWeek": "9.31%",
+    "uptimeMonth": "9.31%",
+    "uptimeYear": "9.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 1
+      "2025-12-09": 5
     }
   },
   {
     "name": "New TRE UI",
-    "url": "http://fivesafes-tes-tre-01.uksouth.cloudapp.azure.com:8989/",
+    "url": "http://fivesafes-tes-tre-01.uksouth.cloudapp.azure.com:8989",
     "icon": "https://icons.duckduckgo.com/ip3/fivesafes-tes-tre-01.uksouth.cloudapp.azure.com.ico",
     "slug": "new-tre-ui",
     "status": "down",
-    "uptime": "78.97%",
-    "uptimeDay": "78.97%",
-    "uptimeWeek": "78.97%",
-    "uptimeMonth": "78.97%",
-    "uptimeYear": "78.97%",
+    "uptime": "10.54%",
+    "uptimeDay": "10.54%",
+    "uptimeWeek": "10.54%",
+    "uptimeMonth": "10.54%",
+    "uptimeYear": "10.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 4
     }
   }
 ]
