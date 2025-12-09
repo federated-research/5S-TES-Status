@@ -6,12 +6,15 @@ sites:
   - name: New Submission API
     check: "tcp-ping"
     url: 172.167.66.153
-    port: 7220
+    port: 5034
   - name: New TRE API
     check: "tcp-ping"
     url: 172.167.137.69
     port: 8072
-
+  - name: New Funnel
+    check: "tcp-ping"
+    url: 172.167.109.83
+    port: 80
 assignees: # Users to assign downtime issues (optional)
   - AndrewThien
   - vpnu
