@@ -22,8 +22,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /5S-TES-Status
+  cname: status.5s-tes.federated-research.com
+  # baseUrl: /5S-TES-Status
   logoUrl: https://raw.githubusercontent.com/federated-research/5S-TES-Status/refs/heads/master/logo.png
   name: Five Safes TES
   favicon: https://raw.githubusercontent.com/federated-research/5S-TES-Status/refs/heads/master/logo.png
