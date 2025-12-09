@@ -1,22 +1,40 @@
 [
   {
-    "name": "New TRE UI",
+    "name": "New Submission API",
+    "url": "172.167.66.153",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "new-submission-api",
+    "status": "down",
+    "uptime": "94.96%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "94.96%",
+    "uptimeYear": "94.96%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
+  },
+  {
+    "name": "New TRE API",
     "url": "172.167.137.69",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "new-tre-ui",
+    "slug": "new-tre-api",
     "status": "up",
-    "uptime": "6.08%",
-    "uptimeDay": "6.08%",
-    "uptimeWeek": "6.08%",
-    "uptimeMonth": "6.08%",
-    "uptimeYear": "6.08%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
-    "dailyMinutesDown": {
-      "2025-12-09": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
