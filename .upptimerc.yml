@@ -3,11 +3,11 @@ owner: federated-research # Your GitHub organization or username, where this rep
 repo: 5S-TES-Status # The name of this repository
 
 sites:
-  # - name: New Submission UI
-  #   check: "tcp-ping"
-  #   url: 8.8.4.4
-  #   port: 7220
-  - name: New TRE UI
+  - name: New Submission API
+    check: "tcp-ping"
+    url: 172.167.66.153
+    port: 7220
+  - name: New TRE API
     check: "tcp-ping"
     url: 172.167.137.69
     port: 8072
