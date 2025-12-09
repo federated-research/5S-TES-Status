@@ -4,9 +4,9 @@ repo: 5S-TES-Status # The name of this repository
 
 sites:
   - name: New Submission UI
-    url: http://fivesafes-tes-submission.uksouth.cloudapp.azure.com:7220/
+    url: http://fivesafes-tes-submission.uksouth.cloudapp.azure.com:7220
   - name: New TRE UI
-    url: http://fivesafes-tes-tre-01.uksouth.cloudapp.azure.com:8989/
+    url: http://fivesafes-tes-tre-01.uksouth.cloudapp.azure.com:8989
 assignees: # Users to assign downtime issues (optional)
   - AndrewThien
   - vpnu
