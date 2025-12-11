@@ -1,7 +1,7 @@
 url: https://api.tre-01.5s-tes.federated-research.com/swagger/index.html
-status: down
-code: 502
-responseTime: 406
-lastUpdated: 2025-12-11T14:42:02.671Z
+status: up
+code: 200
+responseTime: 405
+lastUpdated: 2025-12-11T14:54:15.847Z
 startTime: 2025-12-11T14:20:14.283Z
 generator: Upptime <https://github.com/upptime/upptime>
