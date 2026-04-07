@@ -4,10 +4,10 @@
     "url": "https://5s-tes.federated-research.com/",
     "icon": "https://icons.duckduckgo.com/ip3/5s-tes.federated-research.com.ico",
     "slug": "submission-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
@@ -15,14 +15,16 @@
     "timeWeek": 596,
     "timeMonth": 634,
     "timeYear": 850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-07": 1
+    }
   },
   {
     "name": "Submission Backend",
     "url": "https://api.5s-tes.federated-research.com/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.5s-tes.federated-research.com.ico",
     "slug": "submission-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 428,
     "timeMonth": 426,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-07": 0
+    }
   },
   {
     "name": "Nottingham TRE 01 Frontend",
