@@ -4,11 +4,11 @@
     "url": "https://5s-tes.federated-research.com/",
     "icon": "https://icons.duckduckgo.com/ip3/5s-tes.federated-research.com.ico",
     "slug": "submission-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 807,
     "timeDay": 1176,
@@ -16,6 +16,7 @@
     "timeMonth": 653,
     "timeYear": 807,
     "dailyMinutesDown": {
+      "2026-05-08": 5,
       "2026-04-07": 59
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://api.5s-tes.federated-research.com/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.5s-tes.federated-research.com.ico",
     "slug": "submission-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
